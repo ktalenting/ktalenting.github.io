@@ -9,23 +9,23 @@ redirect_from:
 ---
 
 # About Me 
-I am currently a Pd.D. Candidate in the School of Planning at University of Waterloo. I am currently working on several research projects, including the rural-to-urban resettlement process in China, rural resilience and sustainability, as well as urban form transformation in China based on space syntax theory and GIS-based analytical appraoches. 
+I am currently a Pd.D. Candidate in the School of Planning at University of Waterloo. My recent work focues on several research projects, including the rural-to-urban resettlement process in China, rural resilience and sustainability, as well as urban form transformation in China based on space syntax theory and GIS-based analytical appraoches. 
 
 My research interests include: Rural-to-urban resettlement and urbanization in China; Social justice and spatial inequality; Critical urban studies; Urban form and land use planning; urban morphology; GIS-based decision making and spatial analysis; Multiple Criteria Decision Making; Space syntax; Gentrification, conservation and redevelopment.
 
-**Education**
+**Education**    
 🎓 PhD in Urban Planning, 2019-2023, University of Waterloo    
 🎓 M.A in Urban Planning, 2017-2019, University of Waterloo    
 🎓 M.Eng in Architecture and Civil Engineering, 2012-2015, Xi'an Jiaotong University    
 🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
-- 🔈 [2023.02.16] I will speak at the 10th Nanjing University Young Scholar Forum.
+- 🔈 [2023.02.16] I will speak at [the 10th Nanjing University Young Scholar Forum](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
 
 
 # Recent Publications
 
-- 📝  **Yang, C.**, Qian, Z., & Li, H. (2023). Measuring the accessibility deprivation of concentrated resettlement communities in China: An integrated approach of space syntax and multi-criteria decision analysis. _Applied Geography_, 150, 102839.(SSCII, JCR:Q1, IF:4.732) [[DOI]](https://doi.org/10.1016/j.apgeog.2022.102839)
+- 📝  **Yang, C.**, Qian, Z., & Li, H. (2023). Measuring the accessibility deprivation of concentrated resettlement communities in China: An integrated approach of space syntax and multi-criteria decision analysis. _Applied Geography_, 150, 102839.(SSCI, JCR:Q1, IF:4.732) [[DOI]](https://doi.org/10.1016/j.apgeog.2022.102839)
 
 - 📝 **Yang, C.**, & Qian, Z. (2022). The complexity of property rights embedded in the rural-to-urban resettlement of China: A case of Hangzhou. _Land Use Policy_, 122, 106394. (SSCI, JCR:Q1, IF:6.189) [[DOI]](https://doi.org/10.1016/j.landusepol.2022.106394)
 
