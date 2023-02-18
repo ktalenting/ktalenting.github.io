@@ -14,13 +14,13 @@ I am currently a Pd.D. Candidate in the School of Planning at University of Wate
 My research interests include: Rural-to-urban resettlement and urbanization in China; Social justice and spatial inequality; Critical urban studies; Urban form and land use planning; urban morphology; GIS-based decision making and spatial analysis; Multiple Criteria Decision Making; Space syntax; Gentrification, conservation and redevelopment.
 
 **Education**      
-🎓 PhD in Urban Planning, 2019-2023, University of Waterloo    
-🎓 M.A in Urban Planning, 2017-2019, University of Waterloo    
-🎓 M.Eng in Architecture and Civil Engineering, 2012-2015, Xi'an Jiaotong University    
-🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
+- 🎓 PhD in Urban Planning, 2019-2023, University of Waterloo    
+- 🎓 M.A in Urban Planning, 2017-2019, University of Waterloo    
+- 🎓 M.Eng in Architecture and Civil Engineering, 2012-2015, Xi'an Jiaotong University    
+- 🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
-- 🔈 [2023.02.16] I will speak at [the 10th Nanjing University Young Scholar Forum](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
+- 🔊 [2023.02.16] I will speak at [the 10th Nanjing University Young Scholar Forum](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
 
 
 # Recent Publications
@@ -58,18 +58,18 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - 💬 **Yang, C.** and Qian, Z., (July 09, 2019). New perspective on urban form with the integration of space syntax and new urban data: An exploratory analysis in Xi’an, China. _International Space Syntax Symposium_. Beijing, China. (Oral presentation). 国际空间句法论坛
 
 # Teaching
-- Sessional Instructor, PLAN 657 GIS and Spatial Decision Support, 2023
-- Teaching Assisstant, PLAN 105 Introduction to Planning Analysis, PLAN271 Introduction to GIS, PLAN 387 Spatial Database, PLAN349 Urban Form and Internal Spatial Structure, ENVS 195 Introduction to Environmental Studies, 2017-2022
+- 📚 Sessional Instructor, PLAN 657 GIS and Spatial Decision Support, 2023
+- 📚 Teaching Assisstant, PLAN 105 Introduction to Planning Analysis, PLAN271 Introduction to GIS, PLAN 387 Spatial Database, PLAN349 Urban Form and Internal Spatial Structure, ENVS 195 Introduction to Environmental Studies, 2017-2022
 
 # Services
 
 ## Journal Reviewers
-- Environment and Planning B: Urban Analytics and City Science (SSCI, JCR:Q2，IF=3.511)
-- Agribusiness, (SSCI/SCI, JCR:Q2, IF=2.841)
+- ✍ Environment and Planning B: Urban Analytics and City Science (SSCI, JCR:Q2，IF=3.511)
+- ✍ Agribusiness, (SSCI/SCI, JCR:Q2, IF=2.841)
 
 ## Organization Committee
-- Student Member, Canadian Institute of Planners, 2018-present
-- Committee Member, Student Teaching Excellence Committee of the University of Waterloo, 2019-present
+- 💼 Student Member, Canadian Institute of Planners, 2018-present
+- 💼 Committee Member, Student Teaching Excellence Committee of the University of Waterloo, 2019-present
 
 # CV
 📂 Download my [[CV]](/pdf/CV-Chen_ENG.pdf)
