@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: 
-excerpt: 
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,9 +15,9 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 
 **Education**
 🎓 PhD in Urban Planning, 2019-2023, University of Waterloo    
-🎓 M.A in Urban Planning, 2017-2019, University of Waterloo
-🎓 M.Eng in Architecture and Civil Engineering, 2012-2015, Xi'an Jiaotong University
-🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University
+🎓 M.A in Urban Planning, 2017-2019, University of Waterloo    
+🎓 M.Eng in Architecture and Civil Engineering, 2012-2015, Xi'an Jiaotong University    
+🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
 - 🔈 [2023.02.16] I will speak at the 10th Nanjing University Young Scholar Forum.
@@ -75,6 +75,6 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 📂 Download my [[CV]](/pdf/CV-Chen_ENG.pdf)
 
 # Contact
-**Address:**Cities Lab, 200 University Avenue West, Waterloo, ON, Canada    
+**Address:** Cities Lab, 200 University Avenue West, Waterloo, ON, Canada    
 **Office Location:** EV1-355 
 
