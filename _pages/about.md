@@ -13,7 +13,7 @@ I am currently a Pd.D. Candidate in the School of Planning at University of Wate
 
 My research interests include: Rural-to-urban resettlement and urbanization in China; Social justice and spatial inequality; Critical urban studies; Urban form and land use planning; urban morphology; GIS-based decision making and spatial analysis; Multiple Criteria Decision Making; Space syntax; Gentrification, conservation and redevelopment.
 
-**Education**    
+**Education**      
 🎓 PhD in Urban Planning, 2019-2023, University of Waterloo    
 🎓 M.A in Urban Planning, 2017-2019, University of Waterloo    
 🎓 M.Eng in Architecture and Civil Engineering, 2012-2015, Xi'an Jiaotong University    
