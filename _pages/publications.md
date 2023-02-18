@@ -1,19 +1,9 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 - 📝  **Yang, C.**, Qian, Z., & Li, H. (2023). Measuring the accessibility deprivation of concentrated resettlement communities in China: An integrated approach of space syntax and multi-criteria decision analysis. _Applied Geography_, 150, 102839.(SSCII, JCR:Q1, IF:4.732) [[DOI]](https://doi.org/10.1016/j.apgeog.2022.102839)
 
