@@ -42,7 +42,9 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 - 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban-Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm?. _In Cities in an Era of Cascading Risks: New Insights from the Ground_ (Forthcoming). Springer.
 
 # Talks
-- 💬 **Yang, C.** and Qian, Z., (November 04, 2020). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _ACSP 2022 Annual Conference_. Toronto, Canada. (Oral presentation). 北美规划院校联合年会
+- 💬 **Yang, C.**, (Feburary 16, 2023). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _the 10th Nanjing University Young Scholar Forum_. Najing, China. (Online presentation). 第十届南京大学建筑与城市规划学院青年论坛
+
+- 💬 **Yang, C.** and Qian, Z., (November 04, 2022). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _ACSP 2022 Annual Conference_. Toronto, Canada. (Oral presentation). 北美规划院校联合年会
 
 - 💬 **Yang, C.** and Qian, Z., (May 26th, 2022). Restructuring Urban Form through Restructuring Accessibility: an
 Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS IN ARCHITECTURE 2022_. Online. A Coruña and online. (Oral presentation). 国际建筑方法论坛
