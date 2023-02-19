@@ -4,7 +4,10 @@ main:
     url: "/#recent-publications"
 
   - title: "Talks"
-    url: "/#talks"   
+    url: "/#talks" 
+
+  - title: "Funding"
+    url: "/#funding"  
 
   - title: "Teaching"
     url: "/#teaching"    
@@ -15,8 +18,8 @@ main:
   - title: "CV"
     url: "/#cv"
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
  
     

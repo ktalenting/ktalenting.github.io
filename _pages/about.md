@@ -57,15 +57,20 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 
 - 💬 **Yang, C.** and Qian, Z., (July 09, 2019). New perspective on urban form with the integration of space syntax and new urban data: An exploratory analysis in Xi’an, China. _International Space Syntax Symposium_. Beijing, China. (Oral presentation). 国际空间句法论坛
 
+# Funding 
+- 📈 Mechanism of farmland marginalization， farmer activities response and contingency management (LR21G030001), Zhejiang Natural Science Foundation, China,RMB 400,000, 2021-2023. (PI: Huan Li)
+
+- 📈 Becoming urban citizens: transformation and adaptation of displaced villagers in China's concentrated resettlement communities(NO.435-2018-0953), Social Sciences and Humanities Research Council, Canada, CAD 130,000, 2018-2021. (Co-PI: Zhu Qian and Huan Li)
+
 # Teaching
 - 📚 Sessional Instructor, PLAN 657 GIS and Spatial Decision Support, 2023
 - 📚 Teaching Assisstant, PLAN 105 Introduction to Planning Analysis, PLAN271 Introduction to GIS, PLAN 387 Spatial Database, PLAN349 Urban Form and Internal Spatial Structure, ENVS 195 Introduction to Environmental Studies, 2017-2022
 
 # Services
-## Journal Reviewers
+### Journal Reviewers
 - ✍ Environment and Planning B: Urban Analytics and City Science (SSCI, JCR:Q2，IF=3.511)
 - ✍ Agribusiness, (SSCI/SCI, JCR:Q2, IF=2.841)
-## Organization Committee
+### Organization Committee
 - 💼 Student Member, Canadian Institute of Planners, 2018-present
 - 💼 Committee Member, Student Teaching Excellence Committee of the University of Waterloo, 2019-present
 
