@@ -62,11 +62,9 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - 📚 Teaching Assisstant, PLAN 105 Introduction to Planning Analysis, PLAN271 Introduction to GIS, PLAN 387 Spatial Database, PLAN349 Urban Form and Internal Spatial Structure, ENVS 195 Introduction to Environmental Studies, 2017-2022
 
 # Services
-
 ## Journal Reviewers
 - ✍ Environment and Planning B: Urban Analytics and City Science (SSCI, JCR:Q2，IF=3.511)
 - ✍ Agribusiness, (SSCI/SCI, JCR:Q2, IF=2.841)
-
 ## Organization Committee
 - 💼 Student Member, Canadian Institute of Planners, 2018-present
 - 💼 Committee Member, Student Teaching Excellence Committee of the University of Waterloo, 2019-present
