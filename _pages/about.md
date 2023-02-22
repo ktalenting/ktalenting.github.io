@@ -42,22 +42,22 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 - 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban-Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm?. _In Cities in an Era of Cascading Risks: New Insights from the Ground_ (Forthcoming). Springer.
 
 # Talks
-- 💬 **Yang, C.**, (Feburary 16, 2023). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _the 10th Nanjing University Young Scholar Forum_. Najing, China. (Online presentation). 第十届南京大学建筑与城市规划学院青年论坛
+- 💬 **Yang, C.**, (Feburary 16, 2023). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _the 10th Nanjing University Young Scholar Forum_. Najing, China. (Online presentation). 
 
-- 💬 **Yang, C.** and Qian, Z., (November 04, 2022). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _ACSP 2022 Annual Conference_. Toronto, Canada. (Oral presentation). 北美规划院校联合年会
+- 💬 **Yang, C.** and Qian, Z., (November 04, 2022). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _ACSP 2022 Annual Conference_. Toronto, Canada. (Oral presentation). 
 
 - 💬 **Yang, C.** and Qian, Z., (May 26th, 2022). Restructuring Urban Form through Restructuring Accessibility: an
-Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS IN ARCHITECTURE 2022_. Online. A Coruña and online. (Oral presentation). 国际建筑方法论坛
+Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS IN ARCHITECTURE 2022_. Online. A Coruña and online. (Oral presentation). 
 
-- 💬 **Yang, C.** and Qian, Z., (August 31, 2021). The production of concentrated resettlement communities for landless farmers in China's unbalanced urbanization: the case of Hangzhou Economic and Technical Development Zone. _The RGS-IBG Annual International Conference_. Online. (Oral presentation). 英国皇家地理学会年会
+- 💬 **Yang, C.** and Qian, Z., (August 31, 2021). The production of concentrated resettlement communities for landless farmers in China's unbalanced urbanization: the case of Hangzhou Economic and Technical Development Zone. _The RGS-IBG Annual International Conference_. Online. (Oral presentation). 
 
-- 💬 **Yang, C.** and Qian, Z., (July 27, 2021). China’s integrated urban-rural development: a development mode outside the planetary urbanization paradigm? _4th International Conference on Canadian, Chinese and African Sustainable Urbanization (ICCCASU4)_. Montreal, Canada. (Oral presentation). 中国、加拿大和非洲可持续城市化国际会议
+- 💬 **Yang, C.** and Qian, Z., (July 27, 2021). China’s integrated urban-rural development: a development mode outside the planetary urbanization paradigm? _4th International Conference on Canadian, Chinese and African Sustainable Urbanization (ICCCASU4)_. Montreal, Canada. (Oral presentation). 
 
-- 💬 **Yang, C.** and Qian, Z., (November 06, 2020). Generational Difference and Spatial Mismatch of Concentrated Resettlement Communities in China.  _ACSP 2020 Annual Conference_. Toronto, Canada. (Poster presentation). 北美规划院校联合年会
+- 💬 **Yang, C.** and Qian, Z., (November 06, 2020). Generational Difference and Spatial Mismatch of Concentrated Resettlement Communities in China.  _ACSP 2020 Annual Conference_. Toronto, Canada. (Poster presentation). 
 
-- 💬 **Yang, C.** and Qian, Z., (September 03, 2020). Adding an underground layer to urban morphology – case study of Beijing subway’s implication on urban form. _International Seminar on Urban Form_. University of Utah, Salt Laker City, USA. (Oral presentation). 国际城市形态论坛
+- 💬 **Yang, C.** and Qian, Z., (September 03, 2020). Adding an underground layer to urban morphology – case study of Beijing subway’s implication on urban form. _International Seminar on Urban Form_. University of Utah, Salt Laker City, USA. (Oral presentation). 
 
-- 💬 **Yang, C.** and Qian, Z., (July 09, 2019). New perspective on urban form with the integration of space syntax and new urban data: An exploratory analysis in Xi’an, China. _International Space Syntax Symposium_. Beijing, China. (Oral presentation). 国际空间句法论坛
+- 💬 **Yang, C.** and Qian, Z., (July 09, 2019). New perspective on urban form with the integration of space syntax and new urban data: An exploratory analysis in Xi’an, China. _International Space Syntax Symposium_. Beijing, China. (Oral presentation). 
 
 # Funding 
 - 📈 Mechanism of farmland marginalization， farmer activities response and contingency management (LR21G030001), Zhejiang Natural Science Foundation, China,RMB 400,000, 2021-2023. (PI: Huan Li)
