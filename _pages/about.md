@@ -20,6 +20,7 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 - 🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
+- 🔊 [2023.02.21] [Wechat news] I gave a presentation entitled _Urbanization through resettlement and space production in Hangzhou's concentrated resettlement communities_ at the 10th Nanjing University Young Scholar Forum [link] (https://mp.weixin.qq.com/s/bg2-70JKd3R97xUk1q020w)
 - 🔊 [2023.02.16] I will speak at [the 10th Nanjing University Young Scholar Forum](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
 
 
