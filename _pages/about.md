@@ -72,8 +72,9 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 
 # Services
 ### Journal Reviewers
-- ✍ Environment and Planning B: Urban Analytics and City Science (SSCI, JCR:Q2，IF=3.511)
-- ✍ Agribusiness, (SSCI/SCI, JCR:Q2, IF=2.841)    
+- ✍ Environment and Planning B: Urban Analytics and City Science (SSCI)
+- ✍ Applied Economics (SSCI)
+- ✍ Agribusiness, (SSCI/SCI)    
 ### Organization Committee
 - 💼 Student Member, Canadian Institute of Planners, 2018-present
 - 💼 Committee Member, Student Teaching Excellence Committee of the University of Waterloo, 2019-present
