@@ -21,7 +21,7 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 - 🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
-- 🔊 [2023.06.14] I have been attended the 2023 JPER Writing Workshop for New Scholars hosted by Texas A&M University.
+- 🔊 [2023.06.14] I have attended the 2023 JPER Writing Workshop for New Scholars hosted by Texas A&M University.
 - 🔊 [2023.04.03] I have been selected as one of ten recipients of the School of Planning Award of Merit for PhD Students.
 - 🔊 [2023.02.21] 【Wechat news】 I gave a presentation entitled _Urbanization through resettlement and space production in Hangzhou's concentrated resettlement communities_ at the 10th Nanjing University Young Scholar Forum [link](https://mp.weixin.qq.com/s/bg2-70JKd3R97xUk1q020w)
 - 🔊 [2023.02.16] I will speak at [the 10th Nanjing University Young Scholar Forum](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
