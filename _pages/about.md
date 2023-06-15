@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include sidebar.html %}
+
 
 # About Me 
 I am currently a Ph.D. Candidate in the School of Planning at the University of Waterloo. My recent work focuses on several research projects, including the rural-to-urban resettlement process in China, rural resilience and sustainability, as well as urban form transformation in China based on space syntax theory and GIS-based analytical approaches.
