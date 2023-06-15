@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+{% include toc.html %}
 
 # About Me 
 I am currently a Ph.D. Candidate in the School of Planning at the University of Waterloo. PhD ABD. On the job market. Please feel free to contact me if you have postdoc or AP positions available! I'm also looking for collaborators on the following topics.
