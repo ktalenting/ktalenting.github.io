@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% include sidebar.html %}
 
 
 # About Me 
-I am currently a Ph.D. Candidate in the School of Planning at the University of Waterloo. My recent work focuses on several research projects, including the rural-to-urban resettlement process in China, rural resilience and sustainability, as well as urban form transformation in China based on space syntax theory and GIS-based analytical approaches.
+I am currently a Ph.D. Candidate in the School of Planning at the University of Waterloo. PhD ABD. On the job market. Please feel free to contact me if you have postdoc or AP positions available! I'm also looking for collaborators on the following topics.
 
 My research interests include: Rural-to-urban resettlement and urbanization in China; Social justice and spatial inequality; Critical urban studies; Urban form and land use planning; urban morphology; GIS-based decision making and spatial analysis; Multiple Criteria Decision Making; Space syntax; Gentrification, conservation and redevelopment.
 
@@ -22,6 +21,7 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 - 🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
+- 🔊 [2023.06.14] I have been attended the 2023 JPER Writing Workshop for New Scholars hosted by Texas A&M University.
 - 🔊 [2023.04.03] I have been selected as one of ten recipients of the School of Planning Award of Merit for PhD Students.
 - 🔊 [2023.02.21] 【Wechat news】 I gave a presentation entitled _Urbanization through resettlement and space production in Hangzhou's concentrated resettlement communities_ at the 10th Nanjing University Young Scholar Forum [link](https://mp.weixin.qq.com/s/bg2-70JKd3R97xUk1q020w)
 - 🔊 [2023.02.16] I will speak at [the 10th Nanjing University Young Scholar Forum](https://mp.weixin.qq.com/s/_hlGUQ3r1An0Th7ouiulrg).
