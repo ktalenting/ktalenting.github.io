@@ -79,6 +79,7 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 - ✍ Applied Economics (SSCI)
 - ✍ Agribusiness, (SSCI/SCI)    
 ### Organization Committee
+- 💼 Student Member,International Association of China Planning (IACP), 2018-present
 - 💼 Student Member, Canadian Institute of Planners, 2018-present
 - 💼 Committee Member, Student Teaching Excellence Committee of the University of Waterloo, 2019-present
 
