@@ -75,9 +75,8 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 
 # Services
 ### Journal Reviewers
-- ✍ Environment and Planning B: Urban Analytics and City Science (SSCI)
-- ✍ Applied Economics (SSCI)
-- ✍ Agribusiness, (SSCI/SCI)    
+- ✍ Environment and Planning B: Urban Analytics and City Science, Applied Geography, Applied Economics, Agribusiness  
+ 
 ### Organization Committee
 - 💼 Student Member,International Association of China Planning (IACP), 2018-present
 - 💼 Student Member, Canadian Institute of Planners, 2018-present
