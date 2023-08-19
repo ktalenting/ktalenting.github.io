@@ -21,6 +21,7 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 - 🎓 B.Arch in Architecture, 2007-2012, Xi'an Jiaotong University    
 
 # News
+- 🔊 I successfully defended my PhD dissertation!
 - 🔊 [2023.06.28] I won 17th IACP [2023 Karen R. PolenskeBest Student Paper Award](http://www.china-planning.org/alpha/karenpolenskeaward/). 
 - 🔊 [2023.06.14] I have attended the [2023 JPER Writing Workshop](https://www.acsp.org/news/643776/JPER-Writing-Workshop-for-New-Scholars-Wrap-Up.htm) for New Scholars hosted by Texas A&M University.
 - 🔊 [2023.04.03] I have been selected as one of ten recipients of the School of Planning Award of Merit for PhD Students.
@@ -29,6 +30,7 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 
 
 # Recent Publications
+- 📝**Yang, C.**, & Qian, Z. (2023). “Art district without artists”: Urban redevelopment through industrial heritage renovation and the gentrification of industrial neighborhoods in China. _Urban Geography_, online first, 1–23. [[DOI]](https://doi.org/10.1080/02723638.2023.2246846)
 
 - 📝  **Yang, C.**, Qian, Z., & Li, H. (2023). Measuring the accessibility deprivation of concentrated resettlement communities in China: An integrated approach of space syntax and multi-criteria decision analysis. _Applied Geography_, 150, 102839.(SSCI, JCR:Q1, IF:4.732) [[DOI]](https://doi.org/10.1016/j.apgeog.2022.102839)
 
@@ -42,9 +44,9 @@ My research interests include: Rural-to-urban resettlement and urbanization in C
 
 - 📝 **Yang, C.**, & Qian, Z. ‘Resettlement with Chinese characteristics’: The distinctive political-economic context, (in)voluntary urbanites, and three types of mismatch. _International Journal of Urban Sustainable Development_, 1–20. (ESCI) [[DOI]](https://doi.org/10.1080/19463138.2021.1955364)
 
-- 📖 **Yang, C.**, & Qian, Z. (2023). Restructuring urban form through restructuring accessibility: an integrated urban network approach. _In Formal methods in architecture_ (Forthcoming). Springer.
+- 📖 **Yang, C.**, & Qian, Z. (2023). Restructuring Urban Form Through Restructuring Accessibility: An Integrated Urban Network Approach. In P. L. Mora, D. L. Viana, F. Morais, & J. Vieira Vaz (Eds.), _Formal Methods in Architecture_ (pp. 79–91). Springer Nature. [[DOI]](https://doi.org/10.1007/978-981-99-2217-8_7)
 
-- 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban-Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm?. _In Cities in an Era of Cascading Risks: New Insights from the Ground_ (Forthcoming). Springer.
+- 📖 **Yang, C.**, & Qian, Z.(2023). China’s Integrated Urban–Rural Development: A Development Mode Outside the Planetary Urbanization Paradigm? In L. Zhang, E. Kanini Wamuchiru, & C. A. Meutchehe Ngomsi (Eds.), _The City in an Era of Cascading Risks: New Insights from the Ground_ (pp. 169–193). Springer Nature. [[DOI]](https://doi.org/10.1007/978-981-99-2050-1_10)
 
 # Talks
 - 💬 **Yang, C.**, (Feburary 16, 2023). Urbanization through resettlement and the production of space in Hangzhou’s concentrated resettlement communities.  _the 10th Nanjing University Young Scholar Forum_. Najing, China. (Online presentation). 
