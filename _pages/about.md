@@ -10,7 +10,7 @@ redirect_from:
 
 
 # About Me 
-I am currently a Ph.D. Candidate in the School of Planning at the University of Waterloo. PhD ABD. On the job market. Please feel free to contact me if you have postdoc or AP positions available! I'm also looking for collaborators on the following topics.
+I have graduated from the School of Planning at the University of Waterloo. On the job market. Please feel free to contact me if you have postdoc or AP positions available! I'm also looking for collaborators on the following topics.
 
 My research interests include: Rural-to-urban resettlement and urbanization in China; Social justice and spatial inequality; Critical urban studies; Urban form and land use planning; urban morphology; GIS-based decision making and spatial analysis; Multiple Criteria Decision Making; Space syntax; Gentrification, conservation and redevelopment.
 
@@ -77,7 +77,7 @@ Integrated Urban Network Approach. _6th International Symposium FORMAL METHODS I
 
 # Services
 ### Journal Reviewers
-- ✍ Environment and Planning B: Urban Analytics and City Science, Applied Geography, Applied Economics, Agribusiness  
+- ✍ Environment and Planning B: Urban Analytics and City Science, Applied Geography, Applied Economics, Agribusiness, Socio-Economic Planning Sciences, NJAS: Impact in Agricultural and Life Science
  
 ### Organization Committee
 - 💼 Student Member,International Association of China Planning (IACP), 2018-present
